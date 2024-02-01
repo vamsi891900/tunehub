@@ -1,0 +1,30 @@
+body {
+   
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-image: url('https://c1.zzounds.com/media/fit,2018by3200/quality,85/8_Full_Left_Front_NA-022414996580ff27e33d68eaf1aea60e.jpg');
+            background-color: #f0f0f0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        a {
+            display: inline-block;
+            padding: 15px 30px;
+            text-decoration: none;
+            color: #fff;
+            background-color: #4caf50;
+            border-radius: 5px;
+            font-size: 18px;
+            margin: 10px;
+            transition: background-color 0.3s;
+        }
+
+        a:hover {
+            background-color: #45a049;
+        }  
+        h1{
+        color:white;
+        }
